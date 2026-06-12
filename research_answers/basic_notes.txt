@@ -1,0 +1,42 @@
+1. What is Linux?
+Linux is a free and open-source operating system kernel first created by Linus Torvalds. It forms the core of many operating systems called "distributions" (like Ubuntu, Kali, and Parrot). Unlike Windows or macOS, Linux is open-source, meaning anyone can view, modify, and distribute its source code.
+
+2. Why is Linux important in Cyber Security?
+Linux is the backbone of the cybersecurity field for several reasons:
+
+- Most web servers, cloud platforms, and network devices run on Linux.
+- Security tools like Nmap, Metasploit, Wireshark, and Burp Suite are built for Linux.
+- Linux allows deep system-level control, which is essential for penetration testing.
+- It supports powerful scripting (Bash, Python) to automate security tasks.
+- Kali Linux is a dedicated distro built specifically for ethical hacking.
+
+3. Difference Between Linux and Windows
+Feature             |             Linux                                           |          Windows
+----------------------------------------------------------------------------------------------------------------
+Cost                  |   Free and open-source                          |          Paid license
+Source Code     |    Publicly available                                |     Closed/proprietary
+Security             |  Fewer malware targets, more control   |  More targeted by attackers
+Customization   |    Highly customizable                            |   Limited
+Command Line  |  Powerful and preferred                         |   Available but less used
+Usage                |   Servers, hacking, development           |   Consumer and business use
+File System       |      ext4, xfs                                             |     NTFS, FAT32
+
+4. What is a Linux Distribution?
+A Linux distribution (or "distro") is a complete operating system built on top of the Linux kernel, bundled with software, a package manager, and a desktop environment.
+
+Examples:
+
+Kali Linux — For penetration testing and ethical hacking
+Ubuntu — Beginner-friendly, general purpose
+Parrot OS — Lightweight, privacy and security focused
+Fedora — Developer-focused, cutting-edge packages
+Debian — Stable and widely used on servers
+
+5. Why do Ethical Hackers Prefer Linux?
+- Full control — Root access allows modification of any system component
+- Pre-installed tools — Kali Linux comes with 600+ security tools out of the box
+- Lightweight — Can run efficiently even on VMs with limited resources
+- Scripting power — Bash and Python scripting automates repetitive hacking tasks
+- Privacy — Linux doesn't send telemetry data like Windows does
+- Community — Huge open-source community constantly building new security tools
+- Industry standard — Most real-world targets (servers, IoT, cloud) run Linux
