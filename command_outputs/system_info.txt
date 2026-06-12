@@ -1,0 +1,23 @@
+┌──(rahan㉿rahan)-[~]
+└─$ uname -a
+Linux rahan 6.19.14+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.19.14-1+kali1 (2026-05-05) x86_64 GNU/Linux
+                                                                                                                                                
+┌──(rahan㉿rahan)-[~]
+└─$ hostname
+rahan
+                                                                                                                                                
+┌──(rahan㉿rahan)-[~]
+└─$ whoami  
+rahan
+                                                                                                                                            
+┌──(rahan㉿rahan)-[~]
+└─$ date    
+Thursday 11 June 2026 04:25:27 PM IST
+                                                                                                                                             
+┌──(rahan㉿rahan)-[~]
+└─$ uptime  
+ 16:25:36 up 33 min,  1 user,  load average: 0.62, 0.48, 0.48
+               
+┌──(rahan㉿rahan)-[~]
+└─$ pwd     
+/home/rahan
